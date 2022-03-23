@@ -1,0 +1,5 @@
+E:\Projects\PatchProject\Plugins\DLC1.0\Saved\Cooked\Android_ASTC\PatchProject\Content\Scenes\Game\1M_Cube
+E:\Projects\PatchProject\Plugins\DLC1.0\Saved\Cooked\Android_ASTC\PatchProject\Content\Scenes\Game\1M_Cube_Chamfer
+E:\Projects\PatchProject\Plugins\DLC1.0\Saved\Cooked\Android_ASTC\PatchProject\Content\Scenes\Game\CubeMaterial
+E:\Projects\PatchProject\Plugins\DLC1.0\Saved\Cooked\Android_ASTC\PatchProject\Content\Scenes\Game\TopDownExampleMap
+E:\Projects\PatchProject\Plugins\DLC1.0\Saved\Cooked\Android_ASTC\PatchProject\Content\Scenes\Game\TopDownExampleMap_BuiltData

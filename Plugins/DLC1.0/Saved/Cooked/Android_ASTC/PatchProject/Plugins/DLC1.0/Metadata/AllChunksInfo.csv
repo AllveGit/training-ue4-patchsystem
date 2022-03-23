@@ -1,0 +1,17 @@
+ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
+0,/Engine/EditorResources/EmptyActor,Texture2D,Hard,263353,None
+0,/Engine/EditorResources/LightIcons/S_LightError,Texture2D,Hard,263435,None
+0,/Engine/EngineSky/BP_Sky_Sphere,Blueprint,Hard,18699,None
+0,/Engine/EngineSky/C_Sky_Cloud_Color,CurveLinearColor,Hard,1725,None
+0,/Engine/EngineSky/C_Sky_Horizon_Color,CurveLinearColor,Hard,1729,None
+0,/Engine/EngineSky/C_Sky_Zenith_Color,CurveLinearColor,Hard,1808,None
+0,/Engine/EngineSky/M_Sky_Panning_Clouds2,Material,Hard,9389,None
+0,/Engine/EngineSky/SM_SkySphere,StaticMesh,Hard,160583,None
+0,/Engine/EngineSky/T_Sky_Blue,Texture2D,Hard,2499287,None
+0,/Engine/EngineSky/T_Sky_Clouds_M,Texture2D,Hard,176354,None
+0,/Engine/EngineSky/T_Sky_Stars,Texture2D,Hard,159839,None
+1002,/Game/Scenes/Game/1M_Cube,StaticMesh,Hard,7414,None
+1002,/Game/Scenes/Game/1M_Cube_Chamfer,StaticMesh,Hard,23870,None
+1002,/Game/Scenes/Game/CubeMaterial,Material,Hard,16684,None
+1002,/Game/Scenes/Game/TopDownExampleMap,World,Hard,8526906,None
+1002,/Game/Scenes/Game/TopDownExampleMap_BuiltData,MapBuildDataRegistry,Hard,4158218,None

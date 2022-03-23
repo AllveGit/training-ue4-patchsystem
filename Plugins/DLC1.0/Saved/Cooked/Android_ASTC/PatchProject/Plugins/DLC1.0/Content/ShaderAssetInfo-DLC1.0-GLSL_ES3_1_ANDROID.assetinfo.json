@@ -1,0 +1,17 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "E042CB4DA4B8C8DB1816A30514166C485B6D62EA",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0F4278B917BCC99883F98D8C46754D2BCD94DC73",
+			"Assets": [
+				"../../../../../Projects/PatchProject/Content/Scenes/Game/CubeMaterial.uasset"
+			]
+		}
+	]
+}
