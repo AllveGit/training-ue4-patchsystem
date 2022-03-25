@@ -1,0 +1,11 @@
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorResources\EmptyActor
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorResources\LightIcons\S_LightError
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\BP_Sky_Sphere
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\C_Sky_Cloud_Color
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\C_Sky_Horizon_Color
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\C_Sky_Zenith_Color
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\M_Sky_Panning_Clouds2
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\SM_SkySphere
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\T_Sky_Blue
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\T_Sky_Clouds_M
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\T_Sky_Stars

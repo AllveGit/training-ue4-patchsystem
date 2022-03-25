@@ -12,6 +12,11 @@
 				"UMG",
 				"Engine"
 			]
+		},
+		{
+			"Name": "PatchSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
 	]
 }

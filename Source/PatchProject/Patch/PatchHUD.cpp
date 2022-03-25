@@ -27,5 +27,15 @@ void UPatchHUD::OnPatchStartBtnClick()
 
 void UPatchHUD::OnGameStartBtnClick()
 {
+	if (GEngine)
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("GameStart Btn Click!"));
+
+	UWorld* World = GEngine->GetWorldFromContextObject(this, EGetWorldErrorMode::LogAndReturnNull);
+	if (World == nullptr)
+	{
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Red, TEXT("World is null!"));
+		return;
+	}
+
 	UGameplayStatics::OpenLevel(this, "TopDownExampleMap");
 }

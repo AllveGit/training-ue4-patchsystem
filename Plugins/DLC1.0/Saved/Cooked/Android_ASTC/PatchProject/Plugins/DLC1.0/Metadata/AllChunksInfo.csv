@@ -13,5 +13,4 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 1002,/Game/Scenes/Game/1M_Cube,StaticMesh,Hard,7414,None
 1002,/Game/Scenes/Game/1M_Cube_Chamfer,StaticMesh,Hard,23870,None
 1002,/Game/Scenes/Game/CubeMaterial,Material,Hard,16684,None
-1002,/Game/Scenes/Game/TopDownExampleMap,World,Hard,8526906,None
-1002,/Game/Scenes/Game/TopDownExampleMap_BuiltData,MapBuildDataRegistry,Hard,4158218,None
+1002,/Game/Scenes/Game/TopDownExampleMap,World,Hard,8526677,None

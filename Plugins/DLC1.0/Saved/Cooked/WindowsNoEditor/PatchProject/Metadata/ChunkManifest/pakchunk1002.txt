@@ -1,0 +1,4 @@
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\PatchProject\Content\Scenes\Game\1M_Cube
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\PatchProject\Content\Scenes\Game\1M_Cube_Chamfer
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\PatchProject\Content\Scenes\Game\CubeMaterial
+E:\Projects\UE4-PatchSystem-Training\Plugins\DLC1.0\Saved\Cooked\WindowsNoEditor\PatchProject\Content\Scenes\Game\TopDownExampleMap
