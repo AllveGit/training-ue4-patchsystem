@@ -39,7 +39,8 @@ public class PatchSystem : ModuleRules
 				"Slate",
 				"SlateCore",
 				// ... add private dependencies that you statically link with here ...	
-
+				"Json",
+				"HTTP",
 				"ChunkDownloader",
 			}
 			);

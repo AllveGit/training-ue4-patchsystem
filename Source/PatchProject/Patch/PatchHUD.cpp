@@ -2,11 +2,24 @@
 
 
 #include "PatchHUD.h"
-
+#include "PatchProject/PatchProjectGameInstance.h"
+#include "PatchSystem.h"
 #include "Kismet/GameplayStatics.h"
+
+void UPatchHUD::NativeTick(const FGeometry& MyGeometry, float InDeltaTime)
+{
+	Super::NativeTick(MyGeometry, InDeltaTime);
+
+	if (PatchSystem.IsValid())
+	{
+	}
+}
 
 void UPatchHUD::InitHUD()
 {
+	auto gameInstance = Cast<UPatchProjectGameInstance>(GetWorld()->GetGameInstance());
+	PatchSystem = gameInstance->GetPatchSystem();
+
 	if (PatchStartBtn->OnClicked.IsAlreadyBound(this, &UPatchHUD::OnPatchStartBtnClick) == false)
 	{
 		PatchStartBtn->OnClicked.AddDynamic(this, &UPatchHUD::OnPatchStartBtnClick);

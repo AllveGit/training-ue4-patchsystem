@@ -8,6 +8,8 @@
 #include "Components/Button.h"
 #include "PatchHUD.generated.h"
 
+class UPatchSystem;
+
 /**
  * 
  */
@@ -17,15 +19,17 @@ class PATCHPROJECT_API UPatchHUD : public UUserWidget
 	GENERATED_BODY()
 
 public:
-	void InitHUD();
+	virtual void NativeTick(const FGeometry& MyGeometry, float InDeltaTime) override;
 
-	UFUNCTION(BlueprintImplementableEvent)
-	void PatchStartEvent();
+	void InitHUD();
 
 	UFUNCTION()
 	void OnPatchStartBtnClick();
 	UFUNCTION()
 	void OnGameStartBtnClick();
+
+	UFUNCTION(BlueprintImplementableEvent)
+	void PatchStartEvent();
 protected:
 	UPROPERTY(meta = (BindWidget))
 	UCanvasPanel* PatchingPanel = nullptr;
@@ -36,4 +40,7 @@ protected:
 	UButton* PatchStartBtn = nullptr;
 	UPROPERTY(meta = (BindWidget))
 	UButton* GameStartBtn = nullptr;
+private:
+	UPROPERTY(Transient)
+	TWeakObjectPtr<UPatchSystem> PatchSystem;
 };
